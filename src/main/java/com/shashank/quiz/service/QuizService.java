@@ -1,4 +1,4 @@
-package com.shashank.quiz.service;
+package com.rish.quiz.service;
 
 import java.util.List;
 import java.util.Optional;
@@ -8,10 +8,10 @@ import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 
-import com.shashank.quiz.dao.QuestionDao;
-import com.shashank.quiz.dao.QuizDao;
-import com.shashank.quiz.model.Question;
-import com.shashank.quiz.model.Quiz;
+import com.rish.quiz.dao.QuestionDao;
+import com.rish.quiz.dao.QuizDao;
+import com.rish.quiz.model.Question;
+import com.rish.quiz.model.Quiz;
 
 @Service
 public class QuizService {

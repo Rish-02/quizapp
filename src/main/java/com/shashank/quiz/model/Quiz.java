@@ -1,4 +1,4 @@
-package com.shashank.quiz.model;
+package com.rish.quiz.model;
 
 import java.util.List;
 

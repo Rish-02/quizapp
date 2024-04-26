@@ -1,4 +1,4 @@
-package com.shashank.quiz.controller;
+package com.rish.quiz.controller;
 
 import java.util.List;
 
@@ -11,8 +11,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.shashank.quiz.model.Question;
-import com.shashank.quiz.service.QuizService;
+import com.rish.quiz.model.Question;
+import com.rish.quiz.service.QuizService;
 
 
 @RestController

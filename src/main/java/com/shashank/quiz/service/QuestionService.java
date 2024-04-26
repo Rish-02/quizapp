@@ -1,4 +1,4 @@
-package com.shashank.quiz.service;
+package com.rish.quiz.service;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -9,10 +9,10 @@ import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 
-import com.shashank.quiz.dao.QuestionDao;
-import com.shashank.quiz.model.Question;
+import com.rish.quiz.dao.QuestionDao;
+import com.rish.quiz.model.Question;
 
-@ComponentScan("com.shashank.quiz.dao")
+@ComponentScan("com.rish.quiz.dao")
 @Service
 public class QuestionService {
 	

@@ -1,4 +1,4 @@
-package com.shashank.quiz.dao;
+package com.rish.quiz.dao;
 
 import java.util.List;
 
@@ -6,7 +6,7 @@ import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Service;
 
-import com.shashank.quiz.model.Question;
+import com.rish.quiz.model.Question;
 
 @Service
 public interface QuestionDao extends JpaRepository<Question, Integer> {

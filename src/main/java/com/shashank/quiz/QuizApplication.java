@@ -1,10 +1,10 @@
-package com.shashank.quiz;
+package com.rish.quiz;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ComponentScan;
 
-@ComponentScan("com.shashank.quiz")
+@ComponentScan("com.rish.quiz")
 @SpringBootApplication()
 public class QuizApplication {
 

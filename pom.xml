@@ -8,7 +8,7 @@
 		<version>3.3.0-M2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.shashank</groupId>
+	<groupId>com.rish</groupId>
 	<artifactId>quiz</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>quiz</name>

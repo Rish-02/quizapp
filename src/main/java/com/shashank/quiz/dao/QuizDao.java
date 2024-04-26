@@ -1,8 +1,8 @@
-package com.shashank.quiz.dao;
+package com.rish.quiz.dao;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
-import com.shashank.quiz.model.Quiz;
+import com.rish.quiz.model.Quiz;
 
 public interface QuizDao extends JpaRepository<Quiz, Integer> {
 

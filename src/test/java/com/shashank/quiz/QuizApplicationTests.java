@@ -1,4 +1,4 @@
-package com.shashank.quiz;
+package com.rish.quiz;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
